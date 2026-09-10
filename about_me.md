@@ -3,7 +3,7 @@
 Replace each `...` below with your own answer, then save the file. You'll use this file
 to practise the git workflow in Lab 01.
 
-- **Name:** artan
+- **Name:** artan 
 - **Program:** lab1
 - **My GitHub username:** artan123456
 
